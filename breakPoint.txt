@@ -1,0 +1,3 @@
+PC: >=1024px
+tablet: >=740px & <1024px
+mobile: <740px
